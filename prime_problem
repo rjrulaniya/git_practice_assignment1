@@ -6,8 +6,8 @@ factor++;
 }
 }
 if(factor=2){
-console.log(num,"Pr");
+console.log(num,"Prime");
 }
 else{
-console.log(num,"Notrime");
+console.log(num,"Not a prime");
 }
